@@ -371,3 +371,13 @@ video {
   align-items: center;
   justify-content: center;
 }
+
+.ava {
+
+}
+
+img {
+  border-radius: 50%;
+  width: 40%;
+  height: 30%;
+}
