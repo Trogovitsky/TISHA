@@ -162,8 +162,8 @@ body {
 }
 
 .cart-page-outside {
-  border: 10px solid #fbfbfb;
-  background: #c72320 url("../img/front-bg.jpg") no-repeat center;
+  border: 5px solid #0000004d;
+  background: #00000000 url("../img/front-bg.jpg") no-repeat center;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -171,15 +171,15 @@ body {
 
 @media (max-width: 767px) {
   .cart-page-outside {
-    border: 5px solid #fbfbfb;
+    border: 5px solid #fbfbfb66;
   }
 }
 
 .cart-page-inside,
 .cart-page-bottom {
-  background-color: #d4d1d0;
+  background-color: #00000067;
   background-image: url("../img/pattern.png");
-  border: 20px solid #d4d1d0;
+  border: 5px solid #0000004d;
   display: -webkit-box;
   display: -moz-box;
   display: box;
@@ -207,12 +207,12 @@ body {
 }
 .card-page__title{
   font-size: 20px;
-  color: #ff0000;
+  color: #ffffff8f;
 }
 @media (max-width: 767px) {
   .cart-page-inside,
   .cart-page-bottom {
-    border: 10px solid #d4d1d0;
+    border: 10px solid #d4d1d000;
   }
 }
 
@@ -381,3 +381,8 @@ img {
   width: 40%;
   height: 30%;
 }
+
+p {
+  color: #ffffffca;
+}
+
