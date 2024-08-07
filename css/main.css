@@ -334,17 +334,17 @@ body {
 }
 
 p {
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1.2em;
   padding-left: 10px;
 }
 
 @media (max-width: 767px) {
   .card-page__title{
-    font-size: 16px;
+    font-size: 5px;
   }
   p {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
 
@@ -384,5 +384,9 @@ img {
 
 p {
   color: #ffffffca;
+  font-size: 10px;
 }
 
+.card-page__title{
+  font-size: 15px;
+}
