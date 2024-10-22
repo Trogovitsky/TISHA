@@ -3,6 +3,7 @@
 }
 
 body {
+  background-image: url(../img/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -383,10 +384,10 @@ img {
 }
 
 p {
-  color: #ffffffca;
+  color: #ffffff99;
   font-size: 10px;
 }
 
 .card-page__title{
-  font-size: 15px;
+  font-size: 20px;
 }
